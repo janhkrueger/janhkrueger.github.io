@@ -13,4 +13,4 @@ jobs:
     with:
       settings: "pelicanconf.py"
       requirements: "pelican[markdown] typogrify"
-      theme: "https://github.com/getpelican/pelican-themes/tree/master/pelican-bootstrap3"
+      # theme: "https://github.com/getpelican/pelican-themes/tree/master/pelican-bootstrap3"
