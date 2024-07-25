@@ -50,10 +50,10 @@ DISPLAY_TAGS_ON_SIDEBAR = True
 
 
 # Plugin Verwaltung
-PLUGIN_PATHS = ['/data/pelican-plugins']
-JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
-PLUGIN_PATHS = ['/data/pelican-plugins']
-PLUGINS = ['assets', 'sitemap', 'code_include', 'global_license', 'gallery', 'i18n_subsites', 'series']
+#PLUGIN_PATHS = ['/data/pelican-plugins']
+#JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
+#PLUGIN_PATHS = ['/data/pelican-plugins']
+#PLUGINS = ['assets', 'sitemap', 'code_include', 'global_license', 'gallery', 'i18n_subsites', 'series']
 
 
 # Blogroll, Links im Seitenmenue
