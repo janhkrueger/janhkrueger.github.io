@@ -5,10 +5,12 @@ on:
   workflow_dispatch:
 jobs:
   deploy:
-    uses: "getpelican/pelican/.github/workflows/github_pages.yml@main"
+    uses: "getpelican/pelican/.github/workflows/github_pages.yml@513abbfdc668946590194c637dbe90ec228aaf6f"
     permissions:
       contents: "read"
       pages: "write"
       id-token: "write"
     with:
-      settings: "publishconf.py"
+      settings: "pelicanconf.py"
+      requirements: "pelican[markdown] typogrify"
+      theme: "https://github.com/getpelican/pelican-themes/tree/master/pelican-bootstrap3"
