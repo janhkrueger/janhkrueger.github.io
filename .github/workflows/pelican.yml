@@ -13,4 +13,4 @@ jobs:
     with:
       settings: "pelicanconf.py"
       requirements: "pelican[markdown] typogrify"
-      theme: "https://github.com/darothen/pelican-darothen.git"
+      theme: "https://github.com/janhkrueger/pelican-bootstrap3.git"
