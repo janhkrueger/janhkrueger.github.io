@@ -1,0 +1,45 @@
+Title: Ergebnis des Bartletestes
+Date: 2014-04-14 02:00
+Author: Jan H. Krüger
+Category: Games
+Tags: Bartle, Test
+Slug: ergebnis-bartletest
+
+In den letzten Jahren war ich von [Ulisses][1], dem Produzenten des Rollenspieles DSA, in technischer Hinsicht mehr als enttäuscht. Jetzt, ich glaube nach knapp zwei Jahren, muss ich feststellen: Es hat sich gebessert. Was hatte mich so gestört?
+
+http://www.gamerdna.com/quizzes/bartle-test-of-gamer-psychology/explorer?temp_user_id=327814481
+
+The Explorer motto:
+
+"No stone unturned!"
+
+Description:
+It's not so much the wandering around and poking about, but that euphoric eureka moment the Explorer strives for. The joys of discovery do not necessarily involve geography, real or virtual. They may derive from the mental road less traveled, the uncovering of esoteric or hidden knowledge and it's creative application. Explorers make great theory crafters. The most infinitesimal bit of newness can deliver the most delicious zing to an Explorer.
+Secondary influences
+Explorer Killers enjoy seeing the world, meeting interesting people...and killing them. EKs love all discovery, but finding an edge over the competition is best. Always seeking new opportunity, an EK likely knows the ten best places to find certain types of opponents, as well as ten different ways for taking them down.
+Explorer Achievers have been there, done that and have the t-shirt...in fact they have a plethora of t-shirts, badges, trophies and other rewards. EAs are the completionists of the gamer world. They like to find new places, quests, easter eggs, unlocks, maps etc. and check them off as have, visited or beaten. Like real world travelers, EAs enjoy collecting memorabilia that helps them relive their experiences later.
+Explorer Socializers are the glue of the online world. Not only do they like to delve in to find all the cool stuff, but they also enjoy sharing that knowledge with others. Explorer socializers power the wikis, maps, forums and theory craft sites of the gamer world.
+
+
+Quellen:
+> [1]: <http://ulisses-spiele.de/>  
+> [2]: <http://rpg.drivethrustuff.com>  
+> [3]: <http://archiv.ulisses-spiele.de/forum/showthread.php?t=11905>  
+> [4]: <http://archiv.ulisses-spiele.de/forum/showthread.php?t=12660>  
+> [5]: <http://archiv.ulisses-spiele.de/forum/showthread.php?t=14065>  
+> [6]: <http://archiv.ulisses-spiele.de/forum/showpost.php?p=888409&postcount=16>  
+> [7]: <http://archiv.ulisses-spiele.de/forum/showthread.php?t=12793>  
+> [8]: <http://archiv.ulisses-spiele.de/forum/showpost.php?p=861303&postcount=6>  
+> [9]: <http://archiv.ulisses-spiele.de/forum/showpost.php?p=861352&postcount=10>  
+> [10]: <http://www.ulisses-spiele.de/forum/viewtopic.php?f=88&t=5673>  
+
+[1]: http://ulisses-spiele.de/ "Ulisses-Spiele"
+[2]: http://rpg.drivethrustuff.com "DriveThruStuff"
+[3]: http://archiv.ulisses-spiele.de/forum/showthread.php?t=11905 "Altes Forum von Ulisses"
+[4]: http://archiv.ulisses-spiele.de/forum/showthread.php?t=12660 "Texte nicht kopierbar"
+[5]: http://archiv.ulisses-spiele.de/forum/showthread.php?t=14065 "Ulisses-PDFs jetzt mit Lesezeichen"
+[6]: http://archiv.ulisses-spiele.de/forum/showpost.php?p=888409&postcount=16 "Gründen des Arbeitsaufwandes wohl eher nicht umsetzbar."
+[7]: http://archiv.ulisses-spiele.de/forum/showthread.php?t=12793 "Ulisses Ebooks Funktionalitäten"
+[8]: http://archiv.ulisses-spiele.de/forum/showpost.php?p=861303&postcount=6 "Kommentar von André Wiesler"
+[9]: http://archiv.ulisses-spiele.de/forum/showpost.php?p=861352&postcount=10 "Antwort von MasterSheep"
+[10]: http://www.ulisses-spiele.de/forum/viewtopic.php?f=88&t=5673 "F-Shop Käufe im neuen Shop übertragen"
