@@ -36,7 +36,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 
-THEME = '/data/pelican-themes/pelican-bootstrap3'
+# THEME = '/data/pelican-themes/pelican-bootstrap3'
 TAG_CLOUD_MAX_ITEMS = 20
 PYGMENTS_STYLE = 'friendly'
 SHOW_ARTICLE_AUTHOR = True
